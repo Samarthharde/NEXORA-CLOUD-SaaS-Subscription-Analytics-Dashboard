@@ -93,7 +93,7 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 
 ## 📄 Full Dashboard
 
-👉 [View Complete Project](Blinkit.twbx)
+👉 [View Complete Project](NEXORA_CLOUD.twbx)
 
 The packaged Tableau workbook contains all dashboards with filters and interactive views.
 
