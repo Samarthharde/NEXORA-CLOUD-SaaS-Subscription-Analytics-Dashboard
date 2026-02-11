@@ -80,7 +80,7 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 
 
 ### 🔹 Subscription Lifecycle Trends
-![Subscription Lifecycle Trends](screenshots/Value_&_product_Amounts.png)
+![Subscription Lifecycle Trends](Screenshots/Subscription_Lifecycle_Trends.png)
 
 
 ### 🔹 Revenue & Plan Intelligence
