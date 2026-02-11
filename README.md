@@ -75,20 +75,24 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 
 ## 🖼️ Dashboard Preview
 
+### 🔹 Customer Distribution & Market Insights
+![Customer Distribution & Market Insights](Screenshots/Customer_Distribution_&_Market_Insights.png)
+
+
+
 ### 🔹 SaaS Executive Performance Overview
 ![SaaS Executive Performance Overview](Screenshots/SaaS_Revenue_&_Growth_Overview.png)
+
 
 
 ### 🔹 Subscription Lifecycle Trends
 ![Subscription Lifecycle Trends](Screenshots/Subscription_Lifecycle_Trends.png)
 
 
+
 ### 🔹 Revenue & Plan Intelligence
-![ Revenue & Plan Intelligence](screenshots/Value_&_product_Amounts.png)
+![ Revenue & Plan Intelligence](Screenshots/Subscription_Performance_&_Plan_Analysis.png)
 
-
-### 🔹 Customer Distribution & Market Insights
-![Customer Distribution & Market Insights](Screenshots/Customer_Distribution_&_Market_Insights.png)
 
 
 ## 📄 Full Dashboard
