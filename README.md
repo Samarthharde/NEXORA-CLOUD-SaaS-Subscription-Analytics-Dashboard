@@ -88,7 +88,7 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 
 
 ### 🔹 Customer Distribution & Market Insights
-![Customer Distribution & Market Insights](screenshots/Value_&_product_Amounts.png)
+![Customer Distribution & Market Insights](Screenshots/Customer_Distribution_&_Market_Insights.png)
 
 
 ## 📄 Full Dashboard
