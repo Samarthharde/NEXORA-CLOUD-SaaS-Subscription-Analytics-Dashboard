@@ -76,7 +76,7 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 ## 🖼️ Dashboard Preview
 
 ### 🔹 SaaS Executive Performance Overview
-![SaaS Executive Performance Overview](screenshots/Value_&_product_Amounts.png)
+![SaaS Executive Performance Overview](Screenshots/SaaS_Revenue_&_Growth_Overview.png)
 
 
 ### 🔹 Subscription Lifecycle Trends
