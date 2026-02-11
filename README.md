@@ -79,8 +79,8 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 ![SaaS Executive Performance Overview](screenshots/Value_&_product_Amounts.png)
 
 
-### 🔹 Subscription Growth & Churn Analysis
-![Subscription Growth & Churn Analysis](screenshots/Value_&_product_Amounts.png)
+### 🔹 Subscription Lifecycle Trends
+![Subscription Lifecycle Trends](screenshots/Value_&_product_Amounts.png)
 
 
 ### 🔹 Revenue & Plan Intelligence
