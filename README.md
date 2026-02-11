@@ -74,17 +74,21 @@ The project contains multiple analytical dashboard views, each focusing on a dif
 For GitHub presentation and ease of review, the primary dashboard views are highlighted below.
 
 ## 🖼️ Dashboard Preview
-🔹 SaaS Executive Performance Overview
+### 🔹 SaaS Executive Performance Overview
 
-🔹 Subscription Growth & Churn Analysis
 
-🔹 Revenue & Plan Intelligence
+### 🔹 Subscription Growth & Churn Analysis
 
-🔹 Customer Distribution & Market Insights
+
+### 🔹 Revenue & Plan Intelligence
+
+
+### 🔹 Customer Distribution & Market Insights
+
 
 ## 📄 Full Dashboard
 
- 👉 View Complete Project
+###  👉 View Complete Project
 
 The packaged Tableau workbook contains all dashboards with filters and interactive views.
 
